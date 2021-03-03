@@ -1,0 +1,10 @@
+Path|Replication|ModificationTime|AccessTime|PreferredBlockSize|BlocksCount|FileSize|NSQUOTA|DSQUOTA|Permission|UserName|GroupName
+/data/bdm/uni04_tm_adp_code_all/dt=2020-08-07/_SUCCESS|3|2020-08-08 22:06|2020-08-08 22:06|134217728|0|0|0|0|-rw-r--r--|hdfs|supergroup
+/data/bdm/uni04_ermas_coll_org_all/dt=2020-08-07/_SUCCESS|3|2020-08-08 22:06|2020-08-08 22:06|134217728|0|0|0|0|-rw-r--r--|hdfs|supergroup
+/data/fdm/dpm02_tickets_chain/dp=expired/end_date=2020-02-02/000000_0|3|2020-09-01 07:04|2020-09-01 07:04|134217728|3|294773768|0|0|-rwxrwx--x+|hdfs|supergroup
+/tmp/logs/hdfs/logs/application_1601392242607_545185|0|2020-11-13 08:38|1970-01-01 08:00|0|0|0|-1|-1|drwxrwx---|hdfs|hadoop
+/tmp/logs/hdfs/logs/application_1601392242607_545186|0|2020-11-13 08:38|1970-01-01 08:00|0|0|0|-1|-1|drwxrwx---|hdfs|hadoop
+/data/fdm/dpm02_tickets_chain/dp=expired/end_date=2020-02-02/000007_0|3|2020-09-01 07:04|2020-09-01 07:04|134217728|3|268435601|0|0|-rwxrwx--x+|hdfs|supergroup
+/tmp/logs/hdfs/logs/application_1601392242607_545183|0|2020-11-13 08:38|1970-01-01 08:00|0|0|0|-1|-1|drwxrwx---|hdfs|hadoop
+/user/hive/.staging/job_1587558862683_423995|0|2020-05-23 09:05|1970-01-01 08:00|0|0|0|-1|-1|drwx------|hive|hive
+/user/hive/.staging/job_1587558862683_423995/libjars|0|2020-05-23 09:05|1970-01-01 08:00|0|0|0|-1|-1|drwx------|hive|hive
